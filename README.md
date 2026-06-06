@@ -109,12 +109,6 @@ Log2 Normalisation → Ensembl-to-Symbol Conversion → Low Expression Filtering
 - Graph theory analysis to classify candidates as bottlenecks, hubs, or master regulators
 - Druggability and toxicity assessment via DGIdb and ChEMBL
 
-## References
-
-- Hall, M. et al. (2009) 'The WEKA Data Mining Software: An Update', *SIGKDD Explorations*, 11(1), pp. 10–18.
-- Li, Q. et al. (2024) 'Signaling pathways involved in colorectal cancer', *Signal Transduction and Targeted Therapy*, 9(1), p. 266.
-- Zelli, V. et al. (2022) 'Concurrent RAS and RAS/BRAF V600E Variants in Colorectal Cancer', *Frontiers in Oncology*, 12, p. 863639.
-
 ## Author
 
 **Fathimath Nubla Latheef**
